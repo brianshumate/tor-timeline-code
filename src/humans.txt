@@ -15,7 +15,7 @@ Name: Darwin Bell for: https://upload.wikimedia.org/wikipedia/commons/8/85/Red_o
 Name: Joi Ito for: https://www.flickr.com/photos/joi/2619764993
 
 /* SITE */
-Last update: 2016-01-05T17:56:26
+Last update: 2016-01-05T18:43:53
 Standards: HTML5, CSS3, JS
 Components: jQuery, Zurb Foundation
 Software: Metalsmith, ImageMagick, Pixelmator, Sublime Text 3
