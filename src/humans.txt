@@ -1,0 +1,21 @@
+/* TEAM */
+Guilty Party: Brian Shumate
+Site: http://brianshumate.com/
+Twitter: @brianshumate
+Location: On a boat
+
+/* THANKS */
+Name: The Tor Project for: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png
+Name: Umberto Salvagnin for: https://www.flickr.com/photos/kaibara/3839720754
+Name: U.S. Government for: https://commons.wikimedia.org/wiki/File:National_Security_Agency.svg
+Name: WikiMedia Commons for: https://commons.wikimedia.org/wiki/File:30C3_Roger_Dingledine_1.jpg
+Name: JD Hancock for: https://www.flickr.com/photos/jdhancock/9004372146
+Name: WikiMedia Commons for: https://commons.wikimedia.org/wiki/File:Software_Engineering_Institute.jpg
+Name: Darwin Bell for: https://upload.wikimedia.org/wikipedia/commons/8/85/Red_onions.jpg
+Name: Joi Ito for: https://www.flickr.com/photos/joi/2619764993
+
+/* SITE */
+Last update: 2016-01-05T17:56:26
+Standards: HTML5, CSS3, JS
+Components: jQuery, Zurb Foundation
+Software: Metalsmith, ImageMagick, Pixelmator, Sublime Text 3

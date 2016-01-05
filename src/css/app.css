@@ -1,0 +1,42 @@
+/* uncss:ignore */
+a,
+a:hover,
+a:link,
+.menu-text a,
+.menu li a.button,
+.menu li a.button:hover,
+footer a,
+footer a:hover,
+footer a:link,
+.tl-text-content p a,
+.tl-text-content p a:hover {
+    color: #c34528;
+    border-color: #c34528;
+    text-decoration: none;
+}
+.callout.large.primary,
+footer {
+    padding: 24px;
+}
+footer,
+header {
+    background-color: #f2f2f2;
+}
+.love {
+    color: #c34528;
+}
+.media-object-section h4,
+.media-object-section p {
+    margin-left: 20px;
+}
+#tor-timeline {
+    height: 580px;
+}
+.size-24 { font-size: 24px; }
+i.fi-clock {
+    font-style: normal;
+    font-weight: 300    ;
+}
+.media-object-section ul {
+    margin-left: 40px;
+}

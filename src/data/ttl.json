@@ -1,0 +1,1168 @@
+{
+  "title": {
+    "media": {
+      "caption": "",
+      "credit": "",
+      "url": "/img/Onion-skin.png",
+      "thumbnail": "/img/Onion-skin.png"
+    },
+    "text": {
+      "headline": "TOR TIMELINE",
+      "text": "An unofficial timeline of significant activities and events related to Tor software, the Tor network, and the Tor Project"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1995",
+        "month": "05",
+        "day": "01",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "1995",
+        "month": "05",
+        "day": "01",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Three onions",
+        "credit": "",
+        "url": "/img/red_onions.jpg",
+        "thumbnail": "/img/red_onions.jpg"
+      },
+      "text": {
+        "headline": "Onion Router Research Begins",
+        "text": "David Goldschlag, Michael Reed, and Paul Syverson began research funded by the Office of Naval Research into Onion Routing to separate identification from routing in network communications."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1996",
+        "month": "05",
+        "day": "31",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "1996",
+        "month": "05",
+        "day": "31",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "<em>Hiding Routing Information</em> paper",
+        "credit": "",
+        "url": "/img/Hiding-Routing-Information.png",
+        "thumbnail": "/img/Hiding-Routing-Information.png"
+      },
+      "text": {
+        "headline": "Hiding Routing Information",
+        "text": "David M. Goldschlag, Michael G. Reed, and Paul F. Syverson author <a href='/data/IH-1996.pdf'><i class='fi-page-pdf'></i> a paper</a> describing an architecture called <em>Onion Routing</em> designed to limit a network's vulnerability to traffic analysis. The architecture described in this paper is influential in developing what will ultimately become Tor."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1999",
+        "month": "01",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "1999",
+        "month": "01",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "\"Onion Routing for Anonymous and Private Internet Connections\" paper",
+        "credit": "",
+        "url": "/img/Onion-Routing-1999.png",
+        "thumbnail": "/img/Onion-Routing-1999.png"
+      },
+      "text": {
+        "headline": "Onion Routing for Anonymous and Private Internet Connections",
+        "text": "David Goldschlag, Michael Reed, and Paul Syverson present<br> <a href='/data/CACM-1999.pdf'><i class='fi-page-pdf'></i> this paper</a> on onion routing, a general purpose infrastructure for private communication over a public network."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2001",
+        "month": "07",
+        "day": "24",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2001",
+        "month": "07",
+        "day": "24",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Patent diagram",
+        "credit": "",
+        "url": "/img/US6266704..png",
+        "thumbnail": "/img/US6266704..png"
+      },
+      "text": {
+        "headline": "U.S. Patent #6266704",
+        "text": "Michael G. Reed, Paul F. Syverson, and David M. Goldschlag are granted <a href='/data/US6266704.pdf'><i class='fi-page-pdf'></i> Patent #6266704</a> on an onion routing network for securely moving data through communication networks."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2002",
+        "month": "09",
+        "day": "03",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2002",
+        "month": "09",
+        "day": "03",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine",
+        "credit": "",
+        "url": "/img/RD-Tor-name.jpg",
+        "thumbnail": "/img/RD-Tor-name.jpg"
+      },
+      "text": {
+        "headline": "Software Named \"Tor\"",
+        "text": "Roger Dingledine <a href='https://lists.torproject.org/pipermail/tor-dev/2002-September/002363.html'>officially names</a> the onion routing software \"Tor\" stating, \"And so I dub us tor -- the onion router.\""
+      }
+    },
+    {
+      "start_date": {
+        "year": "2002",
+        "month": "09",
+        "day": "20",
+        "hour": "17",
+        "minute": "14",
+        "second": "1",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2002",
+        "month": "09",
+        "day": "20",
+        "hour": "17",
+        "minute": "14",
+        "second": "1",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Pre-Alpha Software Release",
+        "text": "The pre-alpha <a href='http://archives.seul.org/or/dev/Sep-2002/msg00019.html'>version 0.0.0</a> of Tor, developed by Paul Syverson, Roger Dingledine, and Nick Mathewson is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2004",
+        "month": "05",
+        "day": "18",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2004",
+        "month": "05",
+        "day": "18",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "\"Tor: The Second-Generation Onion Router\" paper",
+        "credit": "",
+        "url": "/img/Second-Generation.png",
+        "thumbnail": "/img/Second-Generation.png"
+      },
+      "text": {
+        "headline": "Tor: The Second-Generation Onion Router",
+        "text": "Roger Dingledine, Nick Matthewson, and Paul Syverson present their joint work in <a href='/data/tor-design.pdf'><i class='fi-page-pdf'></i> this paper</a> on Tor, the second generation onion router implementation."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2004",
+        "month": "06",
+        "day": "07",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2004",
+        "month": "06",
+        "day": "07",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=72ed3c2810e97143f66ac9c8f1771c281366da2a'>0.0.7</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2006",
+        "month": "11",
+        "day": "04",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2006",
+        "month": "11",
+        "day": "4",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=00f78af2d784c0096a1c757d307f7160db811539'>0.1.1.25</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2006",
+        "month": "12",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2006",
+        "month": "12",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine",
+        "credit": "",
+        "url": "/img/Tor-and-China-23C3.jpg",
+        "thumbnail": "/img/Tor-and-China-23C3.jpg"
+      },
+      "text": {
+        "headline": "Tor and China",
+        "text": "Roger Dingledine presents <a href='https://media.ccc.de/v/23C3-1444-en-tor_and_china'>Tor and China: Design of a blocking-resistant anonymity system</a> — a talk on using Tor to circumvent China's Great Firewall at the 23<sup>rd</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2007",
+        "month": "05",
+        "day": "07",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2007",
+        "month": "05",
+        "day": "07",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "<em>The Faithless Endpoint</em> paper",
+        "credit": "",
+        "url": "/img/The-Faithless-Endpoint.png",
+        "thumbnail": "/img/The-Faithless-Endpoint.png"
+      },
+      "text": {
+        "headline": "The Faithless Endpoint",
+        "text": "This <a href='/data/article-896.pdf'><i class='fi-page-pdf'></i> paper</a> by Len Sassaman examines scenarios where the use of Tor decreases one's overall security."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2007",
+        "month": "08",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2007",
+        "month": "08",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Dan Egerstad",
+        "credit": "",
+        "url": "/img/Dan-Egerstad.jpg",
+        "thumbnail": "/img/Dan-Egerstad.jpg"
+      },
+      "text": {
+        "headline": "Embassy Email Credential Leak",
+        "text": "Security researcher Dan Egerstad <a href='https://web.archive.org/web/20070904022853/http://derangedsecurity.com/'>releases 100 email addresses</a> related to foreign embassies complete with logins and passwords obtained from his sniffing traffic on an exit node that he operated."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2007",
+        "month": "11",
+        "day": "01",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2007",
+        "month": "11",
+        "day": "01",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine",
+        "credit": "",
+        "url": "/img/Roger_Dingledine_NSA-talk.jpg",
+        "thumbnail": "/img/Roger_Dingledine_NSA-talk.jpg"
+      },
+      "text": {
+        "headline": "Dingledine Talk at NSA",
+        "text": "Roger Dingledine gave <a href='https://www.evernote.com/shard/s1/sh/fe14ebf3-7be6-42a8-9960-edae3e49644a/7efa13a46c7e032fdb8505eb63c34458'>a talk</a> about Tor to the National Security Agency, the <a href='https://www.washingtonpost.com/world/national-security/talk-by-roger-dingledine-of-torprojectorg-at-the-nsa/2013/10/04/cdd15234-2d1d-11e3-8ade-a1f23cda135e_story.html'>summary</a> of which received top-secret classification."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2007",
+        "month": "12",
+        "day": "27",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2007",
+        "month": "12",
+        "day": "27",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Dr. Julius Mittenzwei, Andreas Lehner & Dirk Engling",
+        "credit": "",
+        "url": "/img/Tor-24C3.png",
+        "thumbnail": "/img/Tor-24C3.png"
+      },
+      "text": {
+        "headline": "Tor",
+        "text": "Dr. Julius Mittenzwei, Andreas Lehner, and Dirk Engling present <a href='https://media.ccc.de/v/24c3-2382-de-tor'>Tor</a> — a German language talk about the operation and handling of abuse anonymizers at the 24<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2007",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2007",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine",
+        "credit": "",
+        "url": "/img/Current-Events-in-Tor-Development-24C3.jpg",
+        "thumbnail": "/img/Current-Events-in-Tor-Development-24C3.jpg"
+      },
+      "text": {
+        "headline": "Current events in Tor development",
+        "text": "Roger Dingledine presents <a href='https://media.ccc.de/v/24c3-2325-en-current_events_in_tor_development'>Current events in Tor development</a> — a talk about some of the challenges in the anonymity world at the 24<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008",
+        "month": "07",
+        "day": "15",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2008",
+        "month": "07",
+        "day": "15",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=48d9b654bdc9900f4da366213a525a1e6381f584'>0.2.0.30</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2008",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine",
+        "credit": "",
+        "url": "/img/Security-Tor-25C3.jpg",
+        "thumbnail": "/img/Security-Tor-25C3.jpg"
+      },
+      "text": {
+        "headline": "Security and anonymity vulnerabilities in Tor",
+        "text": "Roger Dingledine presents <a href='https://media.ccc.de/v/25c3-2977-en-security_and_anonymity_vulnerabilities_in_tor'>Security and anonymity vulnerabilities in Tor</a> — a talk about exciting bugs and design flaws in Tor over the years at the 25<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2008",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Bernhard Fischer & Daniel Haslinger",
+        "credit": "",
+        "url": "/img/OnionCat-25C3.jpg",
+        "thumbnail": "/img/OnionCat-25C3.jpg"
+      },
+      "text": {
+        "headline": "Building an anonymous Internet within the Internet",
+        "text": "Bernhard Fischer and Daniel Haslinger present <a href='https://media.ccc.de/v/25c3-2828-en-onioncat_a_tor-based_anonymous_vpn'>Building an anonymous Internet within the Internet</a> — a talk about building a complete IP transparent VPN based on Tor's hidden services at the 25<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2009",
+        "month": "12",
+        "day": "27",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2009",
+        "month": "12",
+        "day": "27",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine",
+        "credit": "",
+        "url": "/img/Tor-and-Censorship-26C3.jpg",
+        "thumbnail": "/img/Tor-and-Censorship-26C3.jpg"
+      },
+      "text": {
+        "headline": "Tor and censorship: lessons learned",
+        "text": "Roger Dingledine presents <a href='https://media.ccc.de/v/26c3-3554-de-tor_and_censorship_lessons_learned'>Tor and censorship: lessons learned</a> — a talk about lessons learned in using Tor for censorship resistance at the 26<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010",
+        "month": "05",
+        "day": "02",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2010",
+        "month": "05",
+        "day": "02",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=77f30fb55b794b833b104b80504c3a2063e92809'>0.2.1.26</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010",
+        "month": "12",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2010",
+        "month": "12",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Adam Obeng",
+        "credit": "",
+        "url": "/img/Tor-is-Peace-27C3.jpg",
+        "thumbnail": "/img/Tor-is-Peace-27C3.jpg"
+      },
+      "text": {
+        "headline": "Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth",
+        "text": "Adam Obeng presents <a href='https://media.ccc.de/v/26c3-3554-de-tor_and_censorship_lessons_learned'>Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth</a> — a talk about the internet as a first resort for dissidents and propagandists alike at the 27<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2011",
+        "month": "12",
+        "day": "05",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2011",
+        "month": "12",
+        "day": "05",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "\"A Peel of Onion\" paper",
+        "credit": "",
+        "url": "/img/A-Peel-of-Onion.png",
+        "thumbnail": "/img/A-Peel-of-Onion.png"
+      },
+      "text": {
+        "headline": "A Peel of Onion",
+        "text": "Paul Syverson presents a keynote on <a href='/data/syverson.pdf'><i class='fi-page-pdf'></i> this paper</a> and its accompanying <a href='/data/syverson-pres.pdf'><i class='fi-monitor'></i> presentation</a> on his Onion Router work for the U.S. Naval Research Laboratory at the 2011 Annual Computer Security Applications Conference."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2011",
+        "month": "12",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2011",
+        "month": "12",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine & Jacob Appelbaum",
+        "credit": "",
+        "url": "/img/Block-Tor-28C3.jpg",
+        "thumbnail": "/img/Block-Tor-28C3.jpg"
+      },
+      "text": {
+        "headline": "How governments have tried to block Tor",
+        "text": "Roger Dingledine and Jacob Appelbaum present <a href='https://media.ccc.de/v/28c3-4800-en-how_governments_have_tried_to_block_tor'>How governments have tried to block Tor</a> — a talk about the various ways in which governments have attempted to block Tor at the 28<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "06",
+        "day": "06",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2012",
+        "month": "06",
+        "day": "06",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=fce6eb1c44e87bc20e1cf62bd46d8fe6e356008e'>0.2.2.37</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "11",
+        "day": "19",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2012",
+        "month": "11",
+        "day": "19",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=17c24b3118224d6536c41fa4e1493a831fb29f0a'>0.2.3.25</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "12",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2012",
+        "month": "12",
+        "day": "28",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Jacob Appelbaum & Roger Dingledine",
+        "credit": "",
+        "url": "/img/Tor-Ecosystem-29C3.jpg",
+        "thumbnail": "/img/Tor-Ecosystem-29C3.jpg"
+      },
+      "text": {
+        "headline": "The Tor software ecosystem",
+        "text": "Roger Dingledine and Jacob Appelbaum present <a href='https://api.media.ccc.de/v/29c3-5306-en-the_tor_software_ecosystem_h264'>The Tor software ecosystem</a> — a talk about all the tools that make up the Tor software world at the 29<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2013",
+        "month": "12",
+        "day": "01",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2013",
+        "month": "12",
+        "day": "01",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "'Users Get Routed' paper",
+        "credit": "",
+        "url": "/img/Users-Get-Routed.png",
+        "thumbnail": "/img/Users-Get-Routed.png"
+      },
+      "text": {
+        "headline": "Users Get Routed: Traffic Correlation on Tor by Realistic Adversaries",
+        "text": "Conference proceedings <a href='/data/usersrouted-ccs13.pdf'><i class='fi-page-pdf'></i> publication</a> for the 20th ACM Conference on Computer and Communications Security which shows 'Tor users are far more susceptible to compromise than indicated by prior work.'"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2013",
+        "month": "12",
+        "day": "27",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2013",
+        "month": "12",
+        "day": "27",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine & Jacob Appelbaum",
+        "credit": "",
+        "url": "/img/Tor-Network-30C3.jpg",
+        "thumbnail": "/img/Tor-Network-30C3.jpg"
+      },
+      "text": {
+        "headline": "The Tor Network",
+        "text": "Roger Dingledine and Jacob Appelbaum present <a href='https://media.ccc.de/v/30C3_-_5423_-_en_-_saal_1_-_201312272030_-_the_tor_network_-_jacob_-_arma'>The Tor Network</a> — a talk about contemporary Tor Network issues related to censorship, security, privacy and anonymity online at the 30<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "01",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2014",
+        "month": "01",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Software Engineering Institute",
+        "credit": "",
+        "url": "/img/CMU-SEI.jpg",
+        "thumbnail": "/img/CMU-SEI.jpg"
+      },
+      "text": {
+        "headline": "Novel Identification Attack Begins",
+        "text": "115 new nodes join the Tor network as relays and begin carrying out a new form of identification attack on users of Tor hidden services. This attack was <a href='http://www.wired.com/2015/11/tor-says-feds-paid-carnegie-mellon-1m-to-help-unmask-users/'>later attributed</a> by the Tor Project to a team from the Software Engineering Institute at Carnegie Mellon University."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "07",
+        "day": "04",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2014",
+        "month": "07",
+        "day": "04",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Unmasked?!",
+        "credit": "",
+        "url": "/img/unmasked.jpg",
+        "thumbnail": "/img/unmasked.jpg"
+      },
+      "text": {
+        "headline": "Tor security advisory: 'relay early' traffic confirmation attack",
+        "text": "The Tor Project <a href='https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack/'>identified a group of relays</a> that appeared to be attempting deanonymization of users who operate or access Tor hidden services through both a Sybil attack and a traffic confirmation attack. This is the attack <a href='https://freedom-to-tinker.com/blog/felten/why-were-cert-researchers-attacking-tor/'>launched by CERT/CMU</a> that began on 01-30-2014."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "09",
+        "day": "22",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2014",
+        "month": "09",
+        "day": "22",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=f48def202c897758e3f1c65ae0773d71e5094158'>0.2.4.24</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "12",
+        "day": "21",
+        "hour": "20",
+        "minute": "17",
+        "second": "23",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2014",
+        "month": "12",
+        "day": "21",
+        "hour": "20",
+        "minute": "17",
+        "second": "23",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "@CthulhuSec Twitter avatar",
+        "credit": "",
+        "url": "/img/CthulhuSec.jpg",
+        "thumbnail": "/img/CthulhuSec.jpg"
+      },
+      "text": {
+        "headline": "Exit Node Cluster Unusual Activity",
+        "text": "Thomas White aka <a href='https://twitter.com/cthulhusec'>@CthulhuSec</a> made an <a href='https://lists.torproject.org/pipermail/tor-talk/2014-December/036067.html'>announcement</a> that he had lost control of physical computers hosting his Tor exit node cluster, his ISP account was suspended, and unusual activity was detected."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "12",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2014",
+        "month": "12",
+        "day": "30",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Dr. Gareth Owen",
+        "credit": "",
+        "url": "/img/Hidden-Services-31C3.jpg",
+        "thumbnail": "/img/Hidden-Services-31C3.jpg"
+      },
+      "text": {
+        "headline": "Tor: Hidden Services and Deanonymisation",
+        "text": "Dr. Gareth Owen presents <a href='https://media.ccc.de/v/31c3_-_6112_-_en_-_saal_2_-_201412301715_-_tor_hidden_services_and_deanonymisation_-_dr_gareth_owen'>Tor: Hidden Services and Deanonymisation</a> — a talk about what is believed to be one of the largest studies into Tor Hidden Services (The Darknet) to date at the 31<sup>st</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "12",
+        "day": "10",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2015",
+        "month": "12",
+        "day": "10",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "The Tor logo",
+        "credit": "",
+        "url": "/img/Tor-logo.png",
+        "thumbnail": "/img/Tor-logo-thumb.png"
+      },
+      "text": {
+        "headline": "Software Release",
+        "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=7a489a638911012069981702065b952a5809d249'>0.2.7.6</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2015",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine, Jacob Appelbaum, Mike Perry, Shari Steele & Alison Macrina",
+        "credit": "",
+        "url": "/img/State-of-the-Onion-32C3.jpg",
+        "thumbnail": "/img/State-of-the-Onion-32C3.jpg"
+      },
+      "text": {
+        "headline": "State of the Onion",
+        "text": "Roger Dingledine, Jacob Appelbaum, Mike Perry, Shari Steele, and Alison Macrina present <a href='https://media.ccc.de/v/32c3-7307-state_of_the_onionk'>State of the Onion</a> — a talk about major changes underway in the Tor Project, the Tor Network, and the Tor community at the 32<sup>nd</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "end_date": {
+        "year": "2015",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Roger Dingledine, David Goulet & asn",
+        "credit": "",
+        "url": "/img/Onion-Services-32C3.jpg",
+        "thumbnail": "/img/Onion-Services-32C3.jpg"
+      },
+      "text": {
+        "headline": "Tor onion services: more useful than you think",
+        "text": "Roger Dingledine, David Goulet, and asn present <a href='https://media.ccc.de/v/32c3-7322-tor_onion_services_more_useful_than_you_think'>Tor onion services: more useful than you think</a> — a talk about what is  what's going on with Tor onion services, aka Tor hidden services at the 32<sup>nd</sup> Chaos Communications Congress."
+      }
+    }
+  ]
+}
