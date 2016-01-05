@@ -1,9 +1,9 @@
 # Tor Timeline
 
 This is the source code for 
-[Tor Timeline](http://tor-timeline.brianshumate.com), a historical timeline of
-activities and events related to Tor software, the Tor network, and the
-Tor Project.
+[Tor Timeline](http://tor-timeline.brianshumate.com/), a historical 
+timeline of activities and events related to [Tor software](https://www.torproject.org/download/download-easy.html), the Tor network, and the
+[Tor Project](https://www.torproject.org/).
 
 I have tried to fact-check all content appearing on this timeline, but I am
 human, so if you spot a mistake please file an issue or pull request to
@@ -37,7 +37,7 @@ Output will appear in the `build` subdirectory.
 
 If you'd like to help with this timeline, your contributions will be most
 welcome! Just fork the repository, add your fact-checked entries to the
-appropriate place in `src/data/ttl.json` and make a pull request.
+appropriate place in [src/data/ttl.json](https://github.com/brianshumate/tor-timeline-code/blob/master/src/data/ttl.json) and make a pull request.
 
 The format of the events JSON is that used by 
 [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) and looks like this:
@@ -84,4 +84,5 @@ more information.
 
 ## Thanks
 
-- Credit for media elements used in this timeline appears in the humans.txt
+- Credit for media elements used in this timeline appears in
+the [humans.txt](https://github.com/brianshumate/tor-timeline-code/blob/master/src/humans.txt)
