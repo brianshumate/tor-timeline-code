@@ -39,7 +39,9 @@ If you'd like to help with this timeline, your contributions will be most
 welcome! Just fork the repository, add your fact-checked entries to the
 appropriate place in [src/data/ttl.json](https://github.com/brianshumate/tor-timeline-code/blob/master/src/data/ttl.json) and make a pull request.
 
-The format of the events JSON is that used by 
+### Data Format
+
+The format of the events JSON is that used by
 [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) and looks like this:
 
 ```json
@@ -79,8 +81,19 @@ The format of the events JSON is that used by
 
 For multi-day activities or events set the `start_date` and `end_date`
 accordingly, or set them to the same value for a single day event. See the
-[TimelineJS3 README](https://github.com/NUKnightLab/TimelineJS3) for 
+[TimelineJS3 README](https://github.com/NUKnightLab/TimelineJS3) for
 more information.
+
+While the JSTimeline project recommends keeping a Google doc for the events,
+I don't do that for reasons, and edit the JSON like a madman instead. That
+said, I am researching some kind of human editable approach like the ACE
+editor in combination with Treema for ease of contribution.
+
+### Images
+
+The timeline uses two different images for a main image and thumbnail; I am
+lazy, and just using one image of the dimensions 300px by 200px. You'll find
+these images located in `src/img`.
 
 ## Thanks
 
