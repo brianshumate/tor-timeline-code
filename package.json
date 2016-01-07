@@ -1,6 +1,6 @@
 {
   "name": "tor-timeline",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Timeline of Tor related events",
   "main": "index.js",
   "scripts": {

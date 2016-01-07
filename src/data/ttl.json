@@ -23,16 +23,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "1995",
-        "month": "05",
-        "day": "01",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Three onions",
         "credit": "",
@@ -46,16 +36,6 @@
     },
     {
       "start_date": {
-        "year": "1996",
-        "month": "05",
-        "day": "31",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "1996",
         "month": "05",
         "day": "31",
@@ -87,16 +67,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "1999",
-        "month": "01",
-        "day": "28",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "\"Onion Routing for Anonymous and Private Internet Connections\" paper",
         "credit": "",
@@ -110,16 +80,6 @@
     },
     {
       "start_date": {
-        "year": "2001",
-        "month": "07",
-        "day": "24",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2001",
         "month": "07",
         "day": "24",
@@ -151,16 +111,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2002",
-        "month": "09",
-        "day": "03",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Roger Dingledine",
         "credit": "",
@@ -174,16 +124,6 @@
     },
     {
       "start_date": {
-        "year": "2002",
-        "month": "09",
-        "day": "20",
-        "hour": "17",
-        "minute": "14",
-        "second": "1",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2002",
         "month": "09",
         "day": "20",
@@ -215,16 +155,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2004",
-        "month": "05",
-        "day": "18",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "\"Tor: The Second-Generation Onion Router\" paper",
         "credit": "",
@@ -238,16 +168,6 @@
     },
     {
       "start_date": {
-        "year": "2004",
-        "month": "06",
-        "day": "07",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2004",
         "month": "06",
         "day": "07",
@@ -279,16 +199,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2006",
-        "month": "11",
-        "day": "4",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "The Tor logo",
         "credit": "",
@@ -302,16 +212,6 @@
     },
     {
       "start_date": {
-        "year": "2006",
-        "month": "12",
-        "day": "28",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2006",
         "month": "12",
         "day": "28",
@@ -343,16 +243,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2007",
-        "month": "05",
-        "day": "07",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "<em>The Faithless Endpoint</em> paper",
         "credit": "",
@@ -366,16 +256,6 @@
     },
     {
       "start_date": {
-        "year": "2007",
-        "month": "08",
-        "day": "30",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2007",
         "month": "08",
         "day": "30",
@@ -407,16 +287,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2007",
-        "month": "11",
-        "day": "01",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Roger Dingledine",
         "credit": "",
@@ -430,16 +300,6 @@
     },
     {
       "start_date": {
-        "year": "2007",
-        "month": "12",
-        "day": "27",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2007",
         "month": "12",
         "day": "27",
@@ -471,16 +331,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2007",
-        "month": "12",
-        "day": "29",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Roger Dingledine",
         "credit": "",
@@ -494,16 +344,6 @@
     },
     {
       "start_date": {
-        "year": "2008",
-        "month": "07",
-        "day": "15",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2008",
         "month": "07",
         "day": "15",
@@ -535,16 +375,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2008",
-        "month": "12",
-        "day": "29",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Roger Dingledine",
         "credit": "",
@@ -558,16 +388,6 @@
     },
     {
       "start_date": {
-        "year": "2008",
-        "month": "12",
-        "day": "29",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2008",
         "month": "12",
         "day": "29",
@@ -599,16 +419,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2009",
-        "month": "12",
-        "day": "27",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Roger Dingledine",
         "credit": "",
@@ -622,16 +432,6 @@
     },
     {
       "start_date": {
-        "year": "2010",
-        "month": "05",
-        "day": "02",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2010",
         "month": "05",
         "day": "02",
@@ -663,16 +463,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2010",
-        "month": "12",
-        "day": "30",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Adam Obeng",
         "credit": "",
@@ -686,16 +476,6 @@
     },
     {
       "start_date": {
-        "year": "2011",
-        "month": "12",
-        "day": "05",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2011",
         "month": "12",
         "day": "05",
@@ -727,16 +507,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2011",
-        "month": "12",
-        "day": "28",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Roger Dingledine & Jacob Appelbaum",
         "credit": "",
@@ -750,16 +520,6 @@
     },
     {
       "start_date": {
-        "year": "2012",
-        "month": "06",
-        "day": "06",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2012",
         "month": "06",
         "day": "06",
@@ -791,16 +551,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2012",
-        "month": "11",
-        "day": "19",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "The Tor logo",
         "credit": "",
@@ -814,16 +564,6 @@
     },
     {
       "start_date": {
-        "year": "2012",
-        "month": "12",
-        "day": "28",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2012",
         "month": "12",
         "day": "28",
@@ -855,16 +595,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2013",
-        "month": "12",
-        "day": "01",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "'Users Get Routed' paper",
         "credit": "",
@@ -878,16 +608,6 @@
     },
     {
       "start_date": {
-        "year": "2013",
-        "month": "12",
-        "day": "27",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2013",
         "month": "12",
         "day": "27",
@@ -919,16 +639,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2014",
-        "month": "01",
-        "day": "30",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Software Engineering Institute",
         "credit": "",
@@ -942,16 +652,6 @@
     },
     {
       "start_date": {
-        "year": "2014",
-        "month": "07",
-        "day": "04",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2014",
         "month": "07",
         "day": "04",
@@ -983,16 +683,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2014",
-        "month": "09",
-        "day": "22",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "The Tor logo",
         "credit": "",
@@ -1006,16 +696,6 @@
     },
     {
       "start_date": {
-        "year": "2014",
-        "month": "12",
-        "day": "21",
-        "hour": "20",
-        "minute": "17",
-        "second": "23",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2014",
         "month": "12",
         "day": "21",
@@ -1047,16 +727,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2014",
-        "month": "12",
-        "day": "30",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Dr. Gareth Owen",
         "credit": "",
@@ -1070,16 +740,6 @@
     },
     {
       "start_date": {
-        "year": "2015",
-        "month": "12",
-        "day": "10",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2015",
         "month": "12",
         "day": "10",
@@ -1111,16 +771,6 @@
         "millisecond": "",
         "format": ""
       },
-      "end_date": {
-        "year": "2015",
-        "month": "12",
-        "day": "29",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
       "media": {
         "caption": "Roger Dingledine, Jacob Appelbaum, Mike Perry, Shari Steele & Alison Macrina",
         "credit": "",
@@ -1134,16 +784,6 @@
     },
     {
       "start_date": {
-        "year": "2015",
-        "month": "12",
-        "day": "29",
-        "hour": "",
-        "minute": "",
-        "second": "",
-        "millisecond": "",
-        "format": ""
-      },
-      "end_date": {
         "year": "2015",
         "month": "12",
         "day": "29",
