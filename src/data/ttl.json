@@ -520,6 +520,28 @@
     },
     {
       "start_date": {
+        "year": "2011",
+        "month": "12",
+        "day": "29",
+        "hour": "",
+        "minute": "",
+        "second": "",
+        "millisecond": "",
+        "format": ""
+      },
+      "media": {
+        "caption": "Eric Filiol and Seun Omosowon",
+        "credit": "",
+        "url": "/img/Taking-control-Tor-28C3.jpg",
+        "thumbnail": "/img/Taking-control-Tor-28C3.jpg"
+      },
+      "text": {
+        "headline": "Taking control over the Tor network",
+        "text": "Eric Filiol and Seun Omosowon present <a href='https://media.ccc.de/v/28c3-4581-en-taking_control_over_the_tor_network'>Taking control over the Tor network</a> at the 28<sup>th</sup> a talk about weaknesses identified in the TOR network protocol and cryptography implementation at the 28<sup>th</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
         "year": "2012",
         "month": "06",
         "day": "06",
