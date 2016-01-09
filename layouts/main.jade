@@ -43,7 +43,7 @@ body
               i.fi-info
               | What?
   .row.large-12.columns
-    div#tor-timeline.text-center
+    div#tor-timeline.tor-timeline.text-center
   #explanation.reveal.large(data-reveal='')
    .media-object
    .media-object-section
@@ -53,10 +53,13 @@ body
     h4 What is this?
     p
      | This is a timeline of significant activities and events related to Tor software, the Tor network, and the Tor Project; it includes things like:
-     ul
-      li Conference talks
-      li News events
-      li Published papers
+     ul.things
+      li
+        i.fi-check.darkgray  Conference talks
+      li
+        i.fi-check.darkgray  News events
+      li
+        i.fi-check.darkgray  Published papers
    button.close-button(data-close='', aria-label='Close reveal', type='button')
     span(aria-hidden='true')
      i.fi-x

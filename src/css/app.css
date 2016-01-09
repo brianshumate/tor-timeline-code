@@ -14,7 +14,11 @@ footer a:link,
     border-color: #c34528;
     text-decoration: none;
 }
-.callout.large.primary,
+a:active,
+a:visted {
+    color: #3d3d3d;
+}
+.callout,
 footer {
     padding: 24px;
 }
@@ -22,21 +26,36 @@ footer,
 header {
     background-color: #f2f2f2;
 }
-.love {
+.love,
+.bloodred {
     color: #c34528;
 }
-.media-object-section h4,
-.media-object-section p {
-    margin-left: 20px;
+.darkgray {
+    color: #7d7d7d;
 }
-#tor-timeline {
+.medgray {
+    color: #e6e6e6;
+}
+.media-object-section {
+    padding-right: 20px;
+}
+.tor-timeline {
     height: 580px;
 }
 .size-24 { font-size: 24px; }
-i.fi-clock {
+.fi-clock {
     font-style: normal;
     font-weight: 300    ;
 }
 .media-object-section ul {
     margin-left: 40px;
+}
+.meta-links ul,
+.things ul,
+.media-object-section ul,
+.tl-timeline .tl-text ul {
+    display: block;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
 }
