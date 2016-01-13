@@ -321,6 +321,23 @@
     {
       "start_date": {
         "year": "2009",
+        "month": "07",
+        "day": "31",
+        "hour": "16"
+      },
+      "media": {
+        "caption": "Roger Dingledine",
+        "url": "/img/Why-Tor-Slow-DEFCON17.jpg",
+        "thumbnail": "/img/Why-Tor-Slow-DEFCON17.jpg"
+      },
+      "text": {
+        "headline": "Why Tor is Slow, and What We're Doing About It",
+        "text": "Roger Dingledine presents <a href='https://www.youtube.com/watch?v=f4BUZrbFbis'><i class='fi-video'></i> a talk</a> about fixing issues with congestion control and network capacity of the Tor network as it scales to 1 million users."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2009",
         "month": "12",
         "day": "27"
       },
