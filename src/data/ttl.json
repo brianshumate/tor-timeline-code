@@ -565,6 +565,23 @@
       "start_date": {
         "year": "2014",
         "month": "08",
+        "day": "09",
+        "hour": "15"
+      },
+      "media": {
+        "caption": "Charlie Vedaa and Mike Larsen",
+        "url": "/img/Impostor-DEFCON22.jpg",
+        "thumbnail": "/img/Impostor-DEFCON22.jpg"
+      },
+      "text": {
+        "headline": "Impostor — Polluting Tor Metadata",
+        "text": "Charlie Vedaa and Mike Larsen present <a href='https://www.youtube.com/watch?v=8jxpZG07EeA'><i class='fi-video'></i> a talk</a> about how Tor traffic is detected, how false positives can be generated, and how you can help fight for anonymity on the Internet."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "08",
         "day": "10",
         "hour": "12",
         "minute": "00"
