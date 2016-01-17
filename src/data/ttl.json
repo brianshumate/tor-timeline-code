@@ -665,6 +665,22 @@
     {
       "start_date": {
         "year": "2015",
+        "month": "07",
+        "day": "09"
+      },
+      "media": {
+        "caption": "Part of a TorFlow Map",
+        "url": "/img/TorFlow.jpg",
+        "thumbnail": "/img/TorFlow.jpg"
+      },
+      "text": {
+        "headline": "TorFlow",
+        "text": "<a href='https://uncharted.software/'><i class='fi-link'></i> Uncharted Software Inc.</a> publishes the initial <a href='https://github.com/unchartedsoftware/torflow'><i class='fi-link'></i> source code</a> for their web application <a href='https://torflow.uncharted.software/'><i class='fi-link'></i> TorFlow</a>, an interactive map of the Tor network."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
         "month": "12",
         "day": "10"
       },
@@ -676,6 +692,22 @@
       "text": {
         "headline": "Software Release",
         "text": "Version <a href='https://gitweb.torproject.org/tor.git/tree/ChangeLog?id=7a489a638911012069981702065b952a5809d249'><i class='fi-link'></i> 0.2.7.6</a> of Tor is released."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "12",
+        "day": "26"
+      },
+      "media": {
+        "caption": "\"George Torwell\"",
+        "url": "/img/George_Torwell_video.jpg",
+        "thumbnail": "/img/George_Torwell_video.jpg"
+      },
+      "text": {
+        "headline": "A message from George Orwell to everyone on the Internet",
+        "text": "The so-called <a href=''><i class='video'></i>George Torwell video</a> was published by the Juice Media! just ahead of the 32<sup>nd</sup> Chaos Communications Congress where it was also shown on 2015-12-29."
       }
     },
     {
