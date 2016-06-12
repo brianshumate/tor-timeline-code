@@ -6,7 +6,7 @@
     },
     "text": {
       "headline": "TOR TIMELINE",
-      "text": "An unofficial timeline of significant activities and events related to Tor software, the Tor network, and the Tor Project"
+      "text": "An <strong>unofficial</strong> timeline of significant activities and events related to Tor software, the Tor network, and the Tor Project"
     }
   },
   "events": [
@@ -747,7 +747,7 @@
         "day": "29"
       },
       "media": {
-        "caption": "Roger Dingledine, Jacob Appelbaum, Mike Perry, Shari Steele & Alison Macrina",
+        "caption": "Shari Steele, Alison Macrina, Mike Perry, Roger Dingledine and Jacob Appelbaum",
         "url": "/img/State-of-the-Onion-32C3.jpg",
         "thumbnail": "/img/State-of-the-Onion-32C3.jpg"
       },
@@ -770,6 +770,22 @@
       "text": {
         "headline": "Tor onion services: more useful than you think",
         "text": "Roger Dingledine, David Goulet, and asn present <a href='https://media.ccc.de/v/32c3-7322-tor_onion_services_more_useful_than_you_think'><i class='fi-video'></i> Tor onion services: more useful than you think</a> — a talk about what is  what's going on with Tor onion services, aka Tor hidden services at the 32<sup>nd</sup> Chaos Communications Congress."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "05",
+        "day": "25"
+      },
+      "media": {
+        "caption": "Statement by Tor Project Executive Director",
+        "url": "/img/ss-statement.jpg",
+        "thumbnail": "/img/ss-statement.jpg"
+      },
+      "text": {
+        "headline": "Jacob Appelbaum Leaves Tor Project",
+        "text": "Jacob Appelbaum steps down from his position at The Tor Project amid <a href='https://blog.torproject.org/blog/statement'>public allegations of sexual mistreatment</a>."
       }
     }
   ]
